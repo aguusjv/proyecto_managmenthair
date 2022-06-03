@@ -7,4 +7,4 @@ El anteproyecto esta definido en este link (https://docs.google.com/document/d/1
 
 # HISTORIA DE USUARIO
 
-En el siguient link  (
+En el siguient link  (https://github.com/users/aguusjv/projects/1)
